@@ -1,0 +1,20 @@
+[
+	{
+		"mId": "guid-1",
+		"unread": true,
+		"subject" : "Training Program online training",
+		"flag": false,
+		"time": "10:30",
+		"from": "Outlook Team",
+		"content" : "About Microsoft Virtual Academy Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "guid-2",
+		"unread": false,
+		"subject" : "Empower your future",
+		"flag": false,
+		"time": "12:56",
+		"from": "Employee HR Team",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	}
+]
